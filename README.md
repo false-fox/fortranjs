@@ -1,7 +1,5 @@
 # Fortran.JS Web framework
-The best motherfucking web framework for human-driven websites. 
-
-Harness the blazingly fast speed 🚀🚀🚀, simplicity 🪑 and security 🔒 of fortran for your next web development project TODAY.
+The best web framework for human-driven websites. 
 
 ## Features
 - Blazingly fast speeds 🚀🚀🚀. Fortran.JS is compiled to machine code and executed on demand. 
@@ -60,3 +58,4 @@ I made this as a joke a year or two ago. I am still ashamed.
 [1] *Observation of Einstein-Podolsky-Rosen Entanglement on Supraquantum Structures by Induction Through Nonlinear Transuranic Crystal of Extremely Long Wavelength (ELW) Pulse from Mode-Locked Source Array* (Freeman, Gordon 1992)
 
 [2] ![Alt text](/public/proof.png)
+
