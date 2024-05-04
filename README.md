@@ -5,14 +5,17 @@ The best web framework for human-driven websites.
 - Blazingly fast speeds 🚀🚀🚀. Fortran.JS is compiled to machine code and executed on demand. 
 - Simplicity 🪑 Web frameworks have become too bloated and slow, Fortran.JS breathes a sigh of relief to overworked developers looking for yet another new framework.
 - Security by obscurity 🔒 Hackers and bad actors don't even know fortran, so how are they going to cause data breaches?
+- Complete integration with fortran, allowing dynamic text or code to be executed
+- React like components utilizing fortran-modules
+- The individual pages are compiled into assembly, and the executable is ran when a request is made for that page.
 
 ## Custom web server
 The custom web server is written in Node.JS, and has custom developer tools, such as:
 - A dev server with automatic building and reloading on changes 🚀🚀🚀
-- A smart compiler that handles everything for you, like compiler options for components. 🚀🚀🚀
+- A smart compiler that handles everything for you, like compiling multiple files, compiler options, and building with components. 🚀🚀🚀
 - Support for external files in a /public/ directory 🚀🚀🚀
-- Supports components like in less advanced frameworks like react 🚀🚀🚀
-
+- Supports 404 pages
+- Programs are compiled into assembly then executed on demand, the result being the HTML.
 
 
 ## Code example:
