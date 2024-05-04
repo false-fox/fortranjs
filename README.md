@@ -7,7 +7,6 @@ The best web framework for human-driven websites.
 - Security by obscurity 🔒 Hackers and bad actors don't even know fortran, so how are they going to cause data breaches?
 - Complete integration with fortran, allowing dynamic text or code to be executed
 - React like components utilizing fortran-modules
-- The individual pages are compiled into assembly, and the executable is ran when a request is made for that page.
 
 ## Custom web server
 The custom web server is written in Node.JS, and has custom developer tools, such as:
@@ -15,8 +14,7 @@ The custom web server is written in Node.JS, and has custom developer tools, suc
 - A smart compiler that handles everything for you, like compiling multiple files, compiler options, and building with components. 🚀🚀🚀
 - Support for external files in a /public/ directory 🚀🚀🚀
 - Supports 404 pages
-- Programs are compiled into assembly then executed on demand, the result being the HTML.
-
+- Executes the compiled executables and returns the HTML output when their url is requested.
 
 ## Code example:
 ```fortran
