@@ -1,3 +1,5 @@
+//2024-05-04 copyright (c) falsefox.dev
+
 const express = require('express')
 const app = express()
 const fs = require("fs")

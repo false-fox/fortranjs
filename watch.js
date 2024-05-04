@@ -1,3 +1,4 @@
+//2024-05-04 copyright (c) falsefox.dev
 const compiler = require("./build")
 
 

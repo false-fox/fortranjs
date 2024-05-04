@@ -1,3 +1,5 @@
+//2024-05-04 copyright (c) falsefox.dev
+
 const fs = require("fs")
 const path = require("path");
 const {
